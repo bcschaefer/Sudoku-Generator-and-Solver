@@ -4,12 +4,12 @@ It is a simple backtracking program. The generation is done simply by solving in
 
 ```
 make
-./main    # or however the compiled binary is named
+./main
 ```
 
 
 Further improvement: 
-- add a gu
+- add a gui
 - png input
 - solvable generation
 - hints
